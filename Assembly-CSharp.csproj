@@ -138,6 +138,7 @@
     <Compile Include="Assets\SteamVR\InteractionSystem\Teleport\Scripts\TeleportPoint.cs" />
     <Compile Include="Assets\SteamVR\Plugins\openvr_api.cs" />
     <Compile Include="Assets\SteamVR\Scripts\MeshGenerator.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\MeshMonoBehaviour.cs" />
     <Compile Include="Assets\SteamVR\Scripts\MyMonoBehaviour.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_Camera.cs" />

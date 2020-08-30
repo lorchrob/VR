@@ -51,6 +51,7 @@ public class MeshMonoBehaviour : MonoBehaviour
         float joystickX = Smooth(device.GetAxis().x);
         float joystickY = Smooth(device.GetAxis().y);
 
+        /*
         if (joystickX > 0)
         {
             MeshGenerator.transformMatrix[0].x += .1f;
@@ -58,6 +59,14 @@ public class MeshMonoBehaviour : MonoBehaviour
         else if (joystickX < 0)
         {
             MeshGenerator.transformMatrix[0].x -= .1f;
+        }
+
+    */
+
+        if (Input.GetKey("space"))
+        {
+            Debug.Log("Move!");
+            MeshGenerator.transformMatrix[0].x += .1f;
         }
 
 

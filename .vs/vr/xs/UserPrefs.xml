@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2723F00E-D669-6D54-74E3-59E92CCD286E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SteamVR/Scripts/MeshMonoBehaviour.cs">
+    <Files>
+      <File FileName="Assets/SteamVR/Scripts/MeshMonoBehaviour.cs" Line="67" Column="10" />
+      <File FileName="Assets/SteamVR/Scripts/MeshGenerator.cs" Line="12" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vr" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SteamVR" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MeshMonoBehaviour.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5aed0725-13b5-4e09-80e3-f663d180c940" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

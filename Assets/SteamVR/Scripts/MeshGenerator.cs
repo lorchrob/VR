@@ -9,7 +9,7 @@ public class MeshGenerator : MonoBehaviour
     Vector3[] vertices;
     int[] indices;
     public int size = 10;
-    public static Vector3[] transformMatrix = { new Vector3(10, 0, 0), new Vector3(0, 10, 0), new Vector3(0, 0, 10) };
+    public static Vector3[] transformMatrix = { new Vector3(12, 0, 0), new Vector3(0, 12, 0), new Vector3(0, 0, 12) };
 
 
 
